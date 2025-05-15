@@ -118,7 +118,7 @@ export const AuthenticatedSideBar = ({collapsed, setCollapsed}) => {
                             </Nav.Item>
 
 
-                            {user?.role === UserType.PLAYER && (
+                            {/*{user?.role === UserType.PLAYER && (*/}
                                 <Nav.Item className="">
                                     <NavLink to="/home/players" className="d-flex align-items-center ps-0 text-decoration-none"
                                              onClick={
@@ -135,9 +135,9 @@ export const AuthenticatedSideBar = ({collapsed, setCollapsed}) => {
                                             className={`side-bar-items ${activePage === 'players' ? 'active' : ''}`}>Players</span>
                                     </NavLink>
                                 </Nav.Item>
-                            )
-                            }
-                            {user?.role === UserType.COACH && (
+                            {/*)*/}
+                            {/*}*/}
+                            {/*{user?.role === UserType.COACH && (*/}
                                 <Nav.Item className="">
                                     <NavLink to="/home/coaches" className="d-flex align-items-center ps-0 text-decoration-none"
                                              onClick={
@@ -154,8 +154,8 @@ export const AuthenticatedSideBar = ({collapsed, setCollapsed}) => {
                                             className={`side-bar-items ${activePage === 'coaches' ? 'active' : ''}`}>Coaches</span>
                                     </NavLink>
                                 </Nav.Item>
-                            )
-                            }
+                            {/*)*/}
+                            {/*}*/}
                             <Nav.Item className="">
                                 <NavLink to="/settings" className="d-flex align-items-center ps-0 text-decoration-none"
                                          onClick={
