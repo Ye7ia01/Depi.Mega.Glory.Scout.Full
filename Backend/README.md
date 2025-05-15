@@ -60,8 +60,8 @@ The solution follows a clean architecture approach with the following projects:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-organization]/GloryScout.git
-   cd GloryScout
+   git clone [https://github.com/[your-organization]/GloryScout.git](https://github.com/Ye7ia01/Depi.Mega.Glory.Scout.Full.git)
+   cd Backend
    ```
 
 2. Restore dependencies:
