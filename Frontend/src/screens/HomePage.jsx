@@ -195,21 +195,32 @@ const HomePage = () => {
                                     </div>
                                     {/*Show Comments Modal*/}
                                     {showComments && post && (
+                                        <>
+                                        <div
+                                            className="modal-overlay"
+                                            style={{
+                                                position: "fixed",
+                                                top: 0,
+                                                left: 0,
+                                                width: "100%",
+                                                height: "100%",
+                                                backgroundColor: "rgba(0, 0, 0, 0.5)", // Black with transparency
+                                                zIndex: 999, // Ensure it's below the modal but above the page content
+                                            }}
+                                        ></div>
                                         <div
                                             className="modal"
                                             style={{
                                                 display: "block",
-                                                height: "100vh",
-                                                width: "60%",
-                                                margin: "auto",
+                                                height: "85vh",
+                                                width: "45%",
                                                 alignSelf: "center",
                                                 zIndex: 1000, // Ensure it's above the overlay
                                                 position: "fixed",
                                                 left: "50%",
                                                 top:"50%",
                                                 transform: "translate(-50%, -50%)",
-                                                // padding: '20px',
-                                                
+                                                // background: "rgba(0, 0, 0, 0)", // Black with transparency
                                                 overflowY: "auto",  // Allow scrolling for content
                                             }}
                                         >
@@ -223,7 +234,6 @@ const HomePage = () => {
                                                     position: "absolute",
                                                     top: "20px",
                                                     right: "20px",
-                                                    background: "transparent",
                                                     border: "none",
                                                     fontSize: "1.5rem",
                                                     cursor: "pointer",
@@ -256,11 +266,11 @@ const HomePage = () => {
                                                     }}
                                                 />
                                                 <hr />
-                                                <div className="comments-section">
-                                                    <h3 style={{ textAlign: "center" }}>Comments</h3>
+                                                <div className="comments-section f-flex flex-column justify-content-start p-3">
+                                                    <h3 style={{marginBottom:'30px'}}>Comments ({post.comments?.length}) </h3>
                                                     {post.comments.map((comment, index) => (
                                                         <div key={index}>
-                                                            <div className={"d-flex flex-row align-items-top"}>
+                                                            <div className={"d-flex flex-row align-items-top "}>
                                                                 <img
                                                                     src={comment.user.profilePhoto}
                                                                     alt="User"
@@ -268,8 +278,8 @@ const HomePage = () => {
                                                                     height={"50px"}
                                                                     style={{ borderRadius: "50%" }}
                                                                 />
-                                                                <div className={"comment-card"}>
-                                                                    <div className={"d-flex flex-row details-profile"}>
+                                                                <div className={"d-flex flex-column ms-2 w-100"}>
+                                                                    <div className={"d-flex flex-row justify-content-between"}>
                                                                         <p className={"comment-user"} >{comment.user.username}</p>
                                                                         <p className={"comment-period"}>
                                                                             {formatDistanceToNow(new Date(comment.createdAt), {
@@ -278,8 +288,11 @@ const HomePage = () => {
                                                                         </p>
                                                                     </div>
                                                                     <p>{comment.commentedText}</p>
+
                                                                 </div>
+
                                                             </div>
+                                                            <hr className={'w-100'}/>
                                                         </div>
                                                     ))}
                                                 </div>
@@ -330,6 +343,7 @@ const HomePage = () => {
                                                 </div>
                                             </div>
                                         </div>
+                                        </>
                                     )}
                                 </div>
                             );
