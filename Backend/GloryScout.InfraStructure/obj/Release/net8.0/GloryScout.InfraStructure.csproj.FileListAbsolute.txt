@@ -1,0 +1,13 @@
+D:\GloryScout\GloryScout.InfraStructure\bin\Release\net8.0\GloryScout.InfraStructure.deps.json
+D:\GloryScout\GloryScout.InfraStructure\bin\Release\net8.0\GloryScout.InfraStructure.dll
+D:\GloryScout\GloryScout.InfraStructure\bin\Release\net8.0\GloryScout.InfraStructure.pdb
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\GloryScout.InfraStructure.csproj.AssemblyReference.cache
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\GloryScout.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\GloryScout.InfraStructure.AssemblyInfoInputs.cache
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\GloryScout.InfraStructure.AssemblyInfo.cs
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\GloryScout.InfraStructure.csproj.CoreCompileInputs.cache
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\GloryScout.InfraStructure.sourcelink.json
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\GloryScout.InfraStructure.dll
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\refint\GloryScout.InfraStructure.dll
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\GloryScout.InfraStructure.pdb
+D:\GloryScout\GloryScout.InfraStructure\obj\Release\net8.0\ref\GloryScout.InfraStructure.dll

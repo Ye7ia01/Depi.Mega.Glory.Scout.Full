@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "gloryscout.API\\GloryScout.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GloryScout.Domain\\GloryScout.Domain.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GloryScout.Data\\GloryScout.Data.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

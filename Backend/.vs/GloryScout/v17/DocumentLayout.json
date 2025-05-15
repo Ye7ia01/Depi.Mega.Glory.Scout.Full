@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GloryScout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GloryScout\\GloryScout.Data\\Migrations\\20250515025215_fixing-payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GloryScout.Data\\Migrations\\20250515025215_fixing-payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\services\\paymobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\services\\paymobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\models\\payment\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\models\\payment\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\models\\payment\\authtokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\models\\payment\\authtokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GloryScout\\GloryScout.Data\\Migrations\\20250515012126_adding-payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GloryScout.Data\\Migrations\\20250515012126_adding-payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\models\\payment\\paymentkeyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\models\\payment\\paymentkeyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\gloryscout.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\gloryscout.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\models\\payment\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\models\\payment\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\controllers\\searchpagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\controllers\\searchpagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A0D6CA-665A-46BA-B32F-60186B009EFC}|GloryScout.Domain\\GloryScout.Domain.csproj|d:\\gloryscout\\gloryscout.domain\\dtos\\userprofiledtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A0D6CA-665A-46BA-B32F-60186B009EFC}|GloryScout.Domain\\GloryScout.Domain.csproj|solutionrelative:gloryscout.domain\\dtos\\userprofiledtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\services\\userprofiles\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\services\\userprofiles\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\services\\posts\\postservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\services\\posts\\postservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\services\\userprofiles\\iuserprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\services\\userprofiles\\iuserprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GloryScout\\GloryScout.Data\\Migrations\\20250514162854_removing-payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GloryScout.Data\\Migrations\\20250514162854_removing-payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|d:\\gloryscout\\gloryscout.api\\services\\posts\\ipostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25CCEA8-0BF8-4C6D-BFCE-876D23F90C45}|gloryscout.API\\GloryScout.API.csproj|solutionrelative:gloryscout.api\\services\\posts\\ipostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\gloryscout.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\gloryscout.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\migrations\\20250506134046_adding-payment-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\migrations\\20250506134046_adding-payment-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\migrations\\20250506082335_adding-payment-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\migrations\\20250506082335_adding-payment-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|d:\\gloryscout\\gloryscout.data\\migrations\\20250506082111_adding-payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BEBC2B-6429-4937-9944-C31DF8F27842}|GloryScout.Data\\GloryScout.Data.csproj|solutionrelative:gloryscout.data\\migrations\\20250506082111_adding-payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250515025215_fixing-payment.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250515025215_fixing-payment.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Migrations\\20250515025215_fixing-payment.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250515025215_fixing-payment.cs",
+              "RelativeToolTip": "GloryScout.Data\\Migrations\\20250515025215_fixing-payment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:52:15.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250515012126_adding-payments.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250515012126_adding-payments.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Migrations\\20250515012126_adding-payments.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250515012126_adding-payments.cs",
+              "RelativeToolTip": "GloryScout.Data\\Migrations\\20250515012126_adding-payments.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:21:26.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Models\\User\\User.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Models\\User\\User.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Models\\User\\User.cs",
+              "RelativeToolTip": "GloryScout.Data\\Models\\User\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wBkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:20:37.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Models\\payment\\Subscription.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Models\\payment\\Subscription.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Models\\payment\\Subscription.cs",
+              "RelativeToolTip": "GloryScout.Data\\Models\\payment\\Subscription.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:00:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "GloryScout.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAmwOsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:48:40.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthTokenResponse.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Models\\payment\\AuthTokenResponse.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Models\\payment\\AuthTokenResponse.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Models\\payment\\AuthTokenResponse.cs",
+              "RelativeToolTip": "GloryScout.Data\\Models\\payment\\AuthTokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:24:00.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymobService.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Services\\PaymobService.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Services\\PaymobService.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Services\\PaymobService.cs",
+              "RelativeToolTip": "GloryScout.API\\Services\\PaymobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:48:45.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "GloryScout.Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:18:46.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Services\\ApplicationService.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "GloryScout.API\\Services\\ApplicationService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAswJgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:27:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentKeyResponse.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Models\\payment\\PaymentKeyResponse.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Models\\payment\\PaymentKeyResponse.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Models\\payment\\PaymentKeyResponse.cs",
+              "RelativeToolTip": "GloryScout.Data\\Models\\payment\\PaymentKeyResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:48:31.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\appsettings.json",
+              "RelativeDocumentMoniker": "GloryScout.API\\appsettings.json",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\appsettings.json",
+              "RelativeToolTip": "GloryScout.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T23:27:13.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Models\\payment\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Models\\payment\\OrderResponse.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Models\\payment\\OrderResponse.cs",
+              "RelativeToolTip": "GloryScout.Data\\Models\\payment\\OrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:24:04.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Program.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Program.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Program.cs",
+              "RelativeToolTip": "GloryScout.API\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAvwGcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:22:45.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GloryScout.API",
+              "DocumentMoniker": "D:\\GloryScout\\gloryscout.API\\GloryScout.API.csproj",
+              "RelativeDocumentMoniker": "gloryscout.API\\GloryScout.API.csproj",
+              "ToolTip": "D:\\GloryScout\\gloryscout.API\\GloryScout.API.csproj",
+              "RelativeToolTip": "gloryscout.API\\GloryScout.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T00:29:28.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Controllers\\PostController.cs",
+              "RelativeToolTip": "GloryScout.API\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwHwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:53:14.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchPagesController.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Controllers\\SearchPagesController.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Controllers\\SearchPagesController.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Controllers\\SearchPagesController.cs",
+              "RelativeToolTip": "GloryScout.API\\Controllers\\SearchPagesController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAmwKgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:29:23.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Domain\\Dtos\\UserProfileDtos\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "GloryScout.Domain\\Dtos\\UserProfileDtos\\UserProfileDto.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Domain\\Dtos\\UserProfileDtos\\UserProfileDto.cs",
+              "RelativeToolTip": "GloryScout.Domain\\Dtos\\UserProfileDtos\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:34:37.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserProfileService.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Services\\UserProfiles\\IUserProfileService.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Services\\UserProfiles\\IUserProfileService.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Services\\UserProfiles\\IUserProfileService.cs",
+              "RelativeToolTip": "GloryScout.API\\Services\\UserProfiles\\IUserProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:35:05.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostServices.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Services\\Posts\\PostServices.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Services\\Posts\\PostServices.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Services\\Posts\\PostServices.cs",
+              "RelativeToolTip": "GloryScout.API\\Services\\Posts\\PostServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:52:12.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Controllers\\UserProfileController.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "GloryScout.API\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:57:25.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "GloryScout.API\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAwwGEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:50:58.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserProfileService.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Services\\UserProfiles\\UserProfileService.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Services\\UserProfiles\\UserProfileService.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Services\\UserProfiles\\UserProfileService.cs",
+              "RelativeToolTip": "GloryScout.API\\Services\\UserProfiles\\UserProfileService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:35:32.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GloryScout.Data.csproj",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\GloryScout.Data.csproj",
+              "RelativeDocumentMoniker": "GloryScout.Data\\GloryScout.Data.csproj",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\GloryScout.Data.csproj",
+              "RelativeToolTip": "GloryScout.Data\\GloryScout.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T14:21:16.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250514162854_removing-payments.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250514162854_removing-payments.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Migrations\\20250514162854_removing-payments.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250514162854_removing-payments.cs",
+              "RelativeToolTip": "GloryScout.Data\\Migrations\\20250514162854_removing-payments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:28:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPostServices.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.API\\Services\\Posts\\IPostServices.cs",
+              "RelativeDocumentMoniker": "GloryScout.API\\Services\\Posts\\IPostServices.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.API\\Services\\Posts\\IPostServices.cs",
+              "RelativeToolTip": "GloryScout.API\\Services\\Posts\\IPostServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:51:49.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250506134046_adding-payment-3.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250506134046_adding-payment-3.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Migrations\\20250506134046_adding-payment-3.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250506134046_adding-payment-3.cs",
+              "RelativeToolTip": "GloryScout.Data\\Migrations\\20250506134046_adding-payment-3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:40:46.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250506082335_adding-payment-1.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250506082335_adding-payment-1.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Migrations\\20250506082335_adding-payment-1.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250506082335_adding-payment-1.cs",
+              "RelativeToolTip": "GloryScout.Data\\Migrations\\20250506082335_adding-payment-1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:23:35.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250506082111_adding-payment.cs",
+              "DocumentMoniker": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250506082111_adding-payment.cs",
+              "RelativeDocumentMoniker": "GloryScout.Data\\Migrations\\20250506082111_adding-payment.cs",
+              "ToolTip": "D:\\GloryScout\\GloryScout.Data\\Migrations\\20250506082111_adding-payment.cs",
+              "RelativeToolTip": "GloryScout.Data\\Migrations\\20250506082111_adding-payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:21:12.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iGONN3lMNpz6eBTVUicPPstCCygxKmdx2VpcCxxgY+0=",
+  "Source": "GloryScout.API",
+  "BasePath": "_content/GloryScout.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
