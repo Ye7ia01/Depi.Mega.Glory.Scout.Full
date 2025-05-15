@@ -68,7 +68,8 @@ const RegisterPlayers = () => {
         if (authenticated) {
             console.log("Authenticated")
             toast.success(`You have successfully registered, ${user?.username}!`);
-            user?.role == UserType.PLAYER ? navigate("/home/players") : navigate("/home/coaches")
+            // user?.role == UserType.PLAYER ? navigate("/home/players") : navigate("/home/coaches")
+            navigate("/home");
         }
         else if (authMessage)
         {
