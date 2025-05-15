@@ -33,7 +33,7 @@ builder.Services.AddPaymobCashIn(config =>
 
         // Use null-coalescing operator to provide a default value or throw an exception if null
         cashInConfig.ApiKey = paymobSection["ApiKey"] ?? throw new InvalidOperationException("Paymob ApiKey is not configured.");
-        cashInConfig.Hmac = paymobSection["SecretKey"] ?? throw new InvalidOperationException("Paymob SecretKey is not configured.");
+        //cashInConfig.Hmac = paymobSection["SecretKey"] ?? throw new InvalidOperationException("Paymob SecretKey is not configured.");
     });
 
 });

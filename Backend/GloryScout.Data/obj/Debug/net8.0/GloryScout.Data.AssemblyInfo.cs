@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GloryScout.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3b673fe6c3ec3e3e8bca5556fdd49dce4e28cad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e8dd961ec4ce6e7d9aec5b0b333b79f14c0f36c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GloryScout.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GloryScout.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
